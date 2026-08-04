@@ -16,9 +16,9 @@ Platforma principală de lucru este **Google Colab**.
 
 [Deschide notebook-ul în Google Colab](https://colab.research.google.com/github/ipworkshop/ipw2026-introduction-to-machine-learning/blob/main/notebooks/02_pandas_train_test.ipynb)
 
-## Ziua 3
+## Ziua 2
 
-### Sesiunea 6 - Probabilități, Legea lui Bayes și Naive Bayes
+### Sesiunea 3/4 - Probabilități, Legea lui Bayes și Naive Bayes
 
 [Deschide notebook-ul în Google Colab](https://colab.research.google.com/github/ipworkshop/ipw2026-introduction-to-machine-learning/blob/main/notebooks/06_probabillities_bayes_naive_bayes.ipynb)
 
