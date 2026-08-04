@@ -1,0 +1,241 @@
+message_id,text,label,topic
+1,Am o întrebare: Puteți explica din nou exemplul prezentat la curs? Este destul de urgent.,academic,curs
+2,Va rog sa imi spuneti: Unde pot verifica daca taxa a fost inregistrata? Astept un raspuns cand aveti timp.,administrative,taxă
+3,Mă puteți ajuta? Am nevoie de o adeverință pentru transport. Mersi anticipat.,administrative,adeverință
+4,Ma puteti ajuta Cum pot obtine o adeverinta de student Astept un raspuns cand aveti timp.,administrative,adeverință
+5,"Buna ziua, Tema se preda individual sau in echipa? Multumesc.",academic,tema
+6,Vă rog să îmi spuneți: Ce documente sunt necesare pentru înscriere? Mersi anticipat.,administrative,înscriere
+7,"Bună ziua, Unde trebuie încărcate documentele pentru înscriere? Nu am găsit informația pe site.",administrative,înscriere
+8,Ce bibliografie recomandati pentru acest curs? Multumesc.,academic,curs
+9,"Salut, Secretariatul este deschis vineri?",administrative,secretariat
+10,Vă rog să îmi spuneți: Am nevoie de o adeverință pentru transport. Este destul de urgent.,administrative,adeverință
+11,Vă rog să îmi spuneți: Când pot ridica documentele de la secretariat? Nu am găsit informația pe site.,administrative,secretariat
+12,Am o întrebare: Cum îmi resetez parola contului instituțional? Aștept un răspuns când aveți timp.,administrative,cont
+13,Va rog sa imi spuneti: Pot aduce actele dupa inceperea semestrului? Astept un raspuns cand aveti timp.,administrative,documente
+14,"Salut, Unde ridic adeverinta de student? Nu am gasit informatia pe site.",administrative,adeverință
+15,Adresa mea de email nu este recunoscută. Nu am găsit informația pe site.,administrative,cont
+16,Va rog sa imi spuneti: Este necesara traducerea legalizata a diplomei? Astept un raspuns cand aveti timp.,administrative,documente
+17,"Bună ziua, Care sunt cerințele minime pentru proiect? Nu am găsit informația pe site.",academic,proiect
+18,"Bună ziua, Care este pragul minim pentru promovare Mulțumesc.",academic,notare
+19,Care este programul secretariatului Aștept un răspuns când aveți timp.,administrative,secretariat
+20,"Salut, Unde pot verifica dacă taxa a fost înregistrată Mulțumesc.",administrative,taxă
+21,"Salut, Ce trebuie să pregătim pentru următorul laborator? Mulțumesc.",academic,laborator
+22,Vă rog să îmi spuneți: Când pot ridica documentele de la secretariat? Este destul de urgent.,administrative,secretariat
+23,Va rog sa imi spuneti: Unde trebuie incarcata tema pentru laborator?,academic,tema
+24,"Bună ziua, Puteți explica din nou exemplul prezentat la curs? Aștept un răspuns când aveți timp.",academic,curs
+25,"Salut, Nu găsesc fișierul folosit la laborator. Nu am găsit informația pe site.",academic,laborator
+26,"Va rog să îmi spuneți: Am achitat taxa, dar nu apare în cont. Este destul de urgent.",administrative,taxă
+27,"Am achitat taxa, dar nu apare în cont. Aștept un răspuns când aveți timp.",administrative,taxă
+28,Am o intrebare: Pot modifica optiunea dupa inscriere?,administrative,înscriere
+29,"Salut, Laboratorul de mâine se ține fizic sau online?",academic,laborator
+30,Cum pot obține o adeverință de student? Nu am găsit informația pe site.,administrative,adeverință
+31,"Bună ziua, Cum se calculează nota finală? Mulțumesc anticipat.",academic,notare
+32,Mă puteți ajuta? Unde trebuie încărcată tema pentru laborator? Mersi.,academic,tema
+33,Se acorda punctaj pentru prezenta la laborator? Multumesc anticipat.,academic,laborator
+34,Ma puteti ajuta? Adresa mea de email nu este recunoscuta. Multumesc anticipat.,administrative,cont
+35,Am o intrebare: Nu am inteles diferenta dintre cele doua metode discutate la curs. Multumesc.,academic,curs
+36,Va rog să îmi spuneți: Cum se calculează nota finală?,academic,notare
+37,Vă rog să îmi spuneți: Câte puncte valorează fiecare laborator? Este destul de urgent.,academic,notare
+38,Am o întrebare: Nota de la seminar intră în media finală?,academic,notare
+39,"Bună ziua, Când pot ridica documentele de la secretariat? Nu am găsit informația pe site.",administrative,secretariat
+40,"Salut, Care este pragul minim pentru promovare? Nu am găsit informația pe site.",academic,notare
+41,Mă puteți ajuta? Care sunt cerințele minime pentru proiect? Mulțumesc.,academic,proiect
+42,Mă puteți ajuta? Care sunt cerințele minime pentru proiect? Este destul de urgent.,academic,proiect
+43,"Bună ziua, Ce documente sunt necesare pentru înscriere? Nu am găsit informația pe site.",administrative,înscriere
+44,Unde trebuie încărcată tema pentru laborator?,academic,tema
+45,"Salut, Am o eroare la codul din laborator și nu știu cum să o rezolv. Mulțumesc anticipat.",academic,laborator
+46,"Salut, Am o eroare la codul din laborator și nu știu cum să o rezolv.",academic,laborator
+47,"Salut, Unde trebuie încărcată tema pentru laborator",academic,tema
+48,"Salut, Se acordă punctaj pentru prezența la laborator? Mulțumesc.",academic,laborator
+49,"Salut, Pot recupera laboratorul cu o altă grupă Mersi.",academic,laborator
+50,Mă puteți ajuta? În ce cont bancar trebuie plătită taxa? Aștept un răspuns când aveți timp.,administrative,taxă
+51,Am o întrebare: Cum pot obține o adeverință de student? Mersi.,administrative,adeverință
+52,"Salut, Până când se poate face înscrierea? Mulțumesc anticipat.",administrative,înscriere
+53,Ma puteti ajuta? Unde pot verifica daca taxa a fost inregistrata? Astept un raspuns cand aveti timp.,administrative,taxă
+54,Mă puteți ajuta? La ce oră începe examenul de săptămâna viitoare? Mulțumesc.,academic,examen
+55,Care sunt cerințele minime pentru proiect? Aștept un răspuns când aveți timp.,academic,proiect
+56,Va rog sa imi spuneti: Contul meu apare blocat. Multumesc anticipat.,administrative,cont
+57,Unde pot verifica dacă taxa a fost înregistrată?,administrative,taxă
+58,Putem lucra câte trei persoane la proiect Mulțumesc anticipat.,academic,proiect
+59,"Bună ziua, Putem lucra câte trei persoane la proiect?",academic,proiect
+60,Am o întrebare: Contul meu apare blocat. Mulțumesc.,administrative,cont
+61,Mă puteți ajuta? Putem alege o temă diferită pentru proiect? Mulțumesc.,academic,proiect
+62,"Bună ziua, Laboratorul de mâine se ține fizic sau online?",academic,laborator
+63,Am o intrebare: In ce cont bancar trebuie platita taxa Multumesc anticipat.,administrative,taxă
+64,Am o intrebare: Pot plati taxa in doua transe? Nu am gasit informatia pe site.,administrative,taxă
+65,Am o întrebare: Nu găsesc fișierul folosit la laborator.,academic,laborator
+66,Mă puteți ajuta? Pot plăti taxa în două tranșe? Mulțumesc anticipat.,administrative,taxă
+67,Am o intrebare: Pot plati taxa in doua transe? Multumesc.,administrative,taxă
+68,Mă puteți ajuta? Cum pot modifica datele personale din cont? Nu am găsit informația pe site.,administrative,cont
+69,"Salut, Ce capitole intră la examen? Este destul de urgent.",academic,examen
+70,Mă puteți ajuta? Când pot ridica documentele de la secretariat?,administrative,secretariat
+71,Am o intrebare: Nu am primit raspuns de la secretariat.,administrative,secretariat
+72,"Salut, Este necesară traducerea legalizată a diplomei? Mulțumesc.",administrative,documente
+73,Am o întrebare: Am o eroare la codul din laborator și nu știu cum să o rezolv. Aștept un răspuns când aveți timp.,academic,laborator
+74,"Bună ziua, Putem lucra câte trei persoane la proiect? Mulțumesc anticipat.",academic,proiect
+75,Unde pot încărca copia după buletin? Mulțumesc anticipat.,administrative,documente
+76,"Salut, În ce cont bancar trebuie plătită taxa? Mulțumesc anticipat.",administrative,taxă
+77,Ma puteti ajuta? Putem primi un exemplu pentru cerinta temei? Multumesc.,academic,tema
+78,Pot trimite cererea prin email la secretariat?,administrative,secretariat
+79,"Salut, În cât timp se eliberează adeverința pentru angajator?",administrative,adeverință
+80,"Bună ziua, Cum se calculează nota finală Mulțumesc anticipat.",academic,notare
+81,"Am o întrebare: Am trimis proiectul, dar vreau să actualizez fișierul. Mulțumesc.",academic,proiect
+82,"Bună ziua, Nu văd situația școlară în platformă. Mulțumesc.",administrative,cont
+83,"Salut, Contul meu apare blocat. Nu am găsit informația pe site.",administrative,cont
+84,"Buna ziua, Nu imi apare punctajul pentru ultima tema.",academic,notare
+85,Ma puteti ajuta? Cursul de vineri se mai tine?,academic,curs
+86,"Buna ziua, In ce sala se tine examenul?",academic,examen
+87,Va rog să îmi spuneți: Cum pot obține o adeverință de student? Mulțumesc anticipat.,administrative,adeverință
+88,"Bună ziua, Unde pot verifica dacă taxa a fost înregistrată Aștept un răspuns când aveți timp.",administrative,taxă
+89,Vă rog să îmi spuneți: Putem alege o temă diferită pentru proiect? Aștept un răspuns când aveți timp.,academic,proiect
+90,Vă rog să îmi spuneți: Pot solicita adeverința online? Este destul de urgent.,administrative,adeverință
+91,Am o întrebare: Documentul trimis apare ca invalid. Aștept un răspuns când aveți timp.,administrative,documente
+92,Am o intrebare: Ce capitole intra la examen Nu am gasit informatia pe site.,academic,examen
+93,Ma puteti ajuta? Cum pot corecta numele din documentele depuse? Astept un raspuns cand aveti timp.,administrative,documente
+94,Putem lucra cate trei persoane la proiect? Multumesc anticipat.,academic,proiect
+95,"Bună ziua, Nu am înțeles diferența dintre cele două metode discutate la curs. Aștept un răspuns când aveți timp.",academic,curs
+96,Mă puteți ajuta? Putem lucra câte trei persoane la proiect? Aștept un răspuns când aveți timp.,academic,proiect
+97,Mă puteți ajuta? Puteți explica din nou exemplul prezentat la curs? Este destul de urgent.,academic,curs
+98,Laboratorul de mâine se ține fizic sau online? Nu am găsit informația pe site.,academic,laborator
+99,Va rog sa imi spuneti: Cum pot modifica datele personale din cont? Multumesc.,administrative,cont
+100,Ma puteti ajuta? Putem folosi calculatorul la examen? Este destul de urgent.,academic,examen
+101,Am o întrebare: Putem alege o temă diferită pentru proiect? Aștept un răspuns când aveți timp.,academic,proiect
+102,"Am o întrebare: Am achitat taxa, dar nu apare în cont. Nu am găsit informația pe site.",administrative,taxă
+103,Am o întrebare: Unde pot încărca copia după buletin? Aștept un răspuns când aveți timp.,administrative,documente
+104,"Bună ziua, Pot aduce actele după începerea semestrului? Mulțumesc.",administrative,documente
+105,Vă rog să îmi spuneți: Nota de la seminar intră în media finală? Mulțumesc anticipat.,academic,notare
+106,"Bună ziua, Cum pot obține o adeverință de student? Nu am găsit informația pe site.",administrative,adeverință
+107,"Salut, Care este programul secretariatului? Aștept un răspuns când aveți timp.",administrative,secretariat
+108,"Bună ziua, Cum pot corecta numele din documentele depuse? Mulțumesc.",administrative,documente
+109,"Bună ziua, Se acordă punctaj pentru prezența la laborator? Mulțumesc.",academic,laborator
+110,Vă rog să îmi spuneți: Cum pot obține o adeverință de student Nu am găsit informația pe site.,administrative,adeverință
+111,"Buna ziua, Proiectul trebuie prezentat in ultima saptamana? Este destul de urgent.",academic,proiect
+112,"Salut, Am achitat taxa, dar nu apare în cont.",administrative,taxă
+113,Va rog sa imi spuneti: Contul meu apare blocat.,administrative,cont
+114,Ma puteti ajuta? Pana cand se poate face inscrierea? Multumesc.,administrative,înscriere
+115,Mă puteți ajuta Ce bibliografie recomandați pentru acest curs,academic,curs
+116,"Salut, Am primit confirmarea pentru înscriere Mulțumesc.",administrative,înscriere
+117,"Salut, Cum se calculează nota finală Mulțumesc.",academic,notare
+118,Va rog să îmi spuneți: Nota de la seminar intră în media finală? Mersi.,academic,notare
+119,Nu am primit raspuns de la secretariat. Nu am gasit informatia pe site.,administrative,secretariat
+120,"Mă puteți ajuta? Am încărcat tema, dar nu apare ca trimisă. Nu am găsit informația pe site.",academic,tema
+121,Vă rog să îmi spuneți: Unde pot verifica dacă taxa a fost înregistrată? Mersi anticipat.,administrative,taxă
+122,Am o întrebare: Adresa mea de email nu este recunoscută.,administrative,cont
+123,Am o intrebare: Putem primi un exemplu pentru cerinta temei Multumesc.,academic,tema
+124,"Bună ziua, Va fi înregistrat cursul de mâine? Este destul de urgent.",academic,curs
+125,"Salut, Secretariatul este deschis vineri? Aștept un răspuns când aveți timp.",administrative,secretariat
+126,"Salut, Unde pot verifica dacă taxa a fost înregistrată?",administrative,taxă
+127,Am o întrebare: Proiectul trebuie prezentat în ultima săptămână? Nu am găsit informația pe site.,academic,proiect
+128,"Vă rog să îmi spuneți: Am trimis proiectul, dar vreau să actualizez fișierul.",academic,proiect
+129,"Bună ziua, Pot trimite cererea prin email la secretariat? Mulțumesc.",administrative,secretariat
+130,Trebuie depusă diploma în original? Aștept un răspuns când aveți timp.,administrative,documente
+131,"Buna ziua, Am trimis proiectul, dar vreau sa actualizez fisierul.",academic,proiect
+132,Care este termenul limită pentru tema de săptămâna aceasta? Mulțumesc.,academic,tema
+133,"Salut, Unde trebuie încărcate documentele pentru înscriere? Mulțumesc.",administrative,înscriere
+134,Mă puteți ajuta? Pot trimite cererea prin email la secretariat? Este destul de urgent.,administrative,secretariat
+135,Care sunt cerințele minime pentru proiect? Nu am găsit informația pe site.,academic,proiect
+136,"Bună ziua, Unde pot încărca copia după buletin Mulțumesc.",administrative,documente
+137,Am o întrebare: Ce trebuie să pregătim pentru următorul laborator? Nu am găsit informația pe site.,academic,laborator
+138,Mă puteți ajuta? Cum pot obține o adeverință de student? Este destul de urgent.,administrative,adeverință
+139,În ce sală se ține examenul? Nu am găsit informația pe site.,academic,examen
+140,"Va rog sa imi spuneti: Am incarcat tema, dar nu apare ca trimisa. Astept un raspuns cand aveti timp.",academic,tema
+141,Vă rog să îmi spuneți: Am o eroare la codul din laborator și nu știu cum să o rezolv. Nu am găsit informația pe site.,academic,laborator
+142,Va rog sa imi spuneti: Nu am inteles diferenta dintre cele doua metode discutate la curs. Astept un raspuns cand aveti timp.,academic,curs
+143,Nu pot finaliza formularul de inscriere. Multumesc anticipat.,administrative,înscriere
+144,Mă puteți ajuta? În ce sală se ține examenul? Aștept un răspuns când aveți timp.,academic,examen
+145,"Salut, Nu îmi apare punctajul pentru ultima temă.",academic,notare
+146,Vă rog să îmi spuneți: În ce cont bancar trebuie plătită taxa? Este destul de urgent.,administrative,taxă
+147,Documentul trimis apare ca invalid. Aștept un răspuns când aveți timp.,administrative,documente
+148,"Buna ziua, Unde gasim materialele de la curs?",academic,curs
+149,Am o întrebare: Ce documente sunt necesare pentru înscriere? Mersi anticipat.,administrative,înscriere
+150,"Bună ziua, Laboratorul de mâine se ține fizic sau online? Mulțumesc anticipat.",academic,laborator
+151,Am o întrebare: Nu înțeleg cerința de la exercițiul trei din temă.,academic,tema
+152,"Buna ziua, Tema se preda individual sau in echipa?",academic,tema
+153,Am o intrebare: Puteti explica din nou exemplul prezentat la curs? Astept un raspuns cand aveti timp.,academic,curs
+154,"Am achitat taxa, dar nu apare în cont. Mulțumesc.",administrative,taxă
+155,Va rog sa imi spuneti: Unde ridic adeverinta de student? Multumesc.,administrative,adeverință
+156,Am o întrebare: Este necesară traducerea legalizată a diplomei? Mulțumesc.,administrative,documente
+157,"Salut, Nu pot finaliza formularul de înscriere. Nu am găsit informația pe site.",administrative,înscriere
+158,"Bună ziua, Nu găsesc fișierul folosit la laborator. Nu am găsit informația pe site.",academic,laborator
+159,"Buna ziua, Unde ridic adeverinta de student? Nu am gasit informatia pe site.",administrative,adeverință
+160,"Bună ziua, Contul meu apare blocat. Este destul de urgent.",administrative,cont
+161,Cand pot ridica documentele de la secretariat? Astept un raspuns cand aveti timp.,administrative,secretariat
+162,Am o întrebare: În ce cont bancar trebuie plătită taxa? Aștept un răspuns când aveți timp.,administrative,taxă
+163,Am o întrebare: Putem primi un exemplu pentru cerința temei? Este destul de urgent.,academic,tema
+164,Vă rog să îmi spuneți: Care sunt cerințele minime pentru proiect? Aștept un răspuns când aveți timp.,academic,proiect
+165,"Salut, Nu am primit răspuns de la secretariat. Este destul de urgent.",administrative,secretariat
+166,La ce ghișeu trebuie să mă prezint? Aștept un răspuns când aveți timp.,administrative,secretariat
+167,Va rog sa imi spuneti: Care este termenul limita pentru tema de saptamana aceasta? Multumesc anticipat.,academic,tema
+168,Am o întrebare: Unde pot încărca copia după buletin? Mulțumesc.,administrative,documente
+169,"Buna ziua, Este necesara traducerea legalizata a diplomei? Astept un raspuns cand aveti timp.",administrative,documente
+170,"Salut, Ce documente sunt necesare pentru înscriere? Nu am găsit informația pe site.",administrative,înscriere
+171,Putem primi un exemplu pentru cerința temei? Aștept un răspuns când aveți timp.,academic,tema
+172,Cum îmi resetez parola contului instituțional? Mersi.,administrative,cont
+173,Va rog sa imi spuneti: In ce sala se tine examenul? Astept un raspuns cand aveti timp.,academic,examen
+174,Mă puteți ajuta? Nu văd situația școlară în platformă. Aștept un răspuns când aveți timp.,administrative,cont
+175,Pot recupera laboratorul cu o altă grupă? Este destul de urgent.,academic,laborator
+176,"Bună ziua, Putem primi un exemplu pentru cerința temei?",academic,tema
+177,"Salut, Unde ridic adeverinta de student? Astept un raspuns cand aveti timp.",administrative,adeverință
+178,Nu vad situatia scolara in platforma. Astept un raspuns cand aveti timp.,administrative,cont
+179,"Salut, Laboratorul de mâine se ține fizic sau online? Aștept un răspuns când aveți timp.",academic,laborator
+180,Cum se calculează nota finală? Mulțumesc anticipat.,academic,notare
+181,"Salut, In cat timp se elibereaza adeverinta pentru angajator? Astept un raspuns cand aveti timp.",administrative,adeverință
+182,Unde pot verifica dacă taxa a fost înregistrată? Aștept un răspuns când aveți timp.,administrative,taxă
+183,"Buna ziua, Laboratorul de maine se tine fizic sau online? Nu am gasit informatia pe site.",academic,laborator
+184,Examenul va avea întrebări grilă sau probleme? Este destul de urgent.,academic,examen
+185,"Buna ziua, Cum pot modifica datele personale din cont? Este destul de urgent.",administrative,cont
+186,Am o întrebare: La ce oră începe examenul de săptămâna viitoare? Mulțumesc.,academic,examen
+187,"Bună ziua, Care sunt cerințele minime pentru proiect? Este destul de urgent.",academic,proiect
+188,Mă puteți ajuta? Ce capitole intră la examen? Nu am găsit informația pe site.,academic,examen
+189,Vă rog să îmi spuneți: Care sunt cerințele minime pentru proiect? Mulțumesc anticipat.,academic,proiect
+190,"Buna ziua, Care este pragul minim pentru promovare? Multumesc.",academic,notare
+191,Cum imi resetez parola contului institutional?,administrative,cont
+192,Cum se calculează punctajul pentru proiect? Aștept un răspuns când aveți timp.,academic,proiect
+193,"Salut, Examenul va avea întrebări grilă sau probleme? Mulțumesc.",academic,examen
+194,"Salut, Care este programul secretariatului?",administrative,secretariat
+195,Ma puteti ajuta? Examenul va avea intrebari grila sau probleme? Multumesc anticipat.,academic,examen
+196,Ce documente sunt necesare pentru inscriere? Multumesc.,administrative,înscriere
+197,Am o întrebare: Nu am primit răspuns de la secretariat. Este destul de urgent.,administrative,secretariat
+198,Vă rog să îmi spuneți: Cum pot obține o adeverință de student? Mulțumesc.,administrative,adeverință
+199,Cum îmi resetez parola contului instituțional,administrative,cont
+200,Cum îmi resetez parola contului instituțional?,administrative,cont
+201,Mă puteți ajuta Ce bibliografie recomandați pentru acest curs Nu am găsit informația pe site.,academic,curs
+202,Mă puteți ajuta? Unde ridic adeverința de student?,administrative,adeverință
+203,"Mă puteți ajuta? Am încărcat tema, dar nu apare ca trimisă. Mulțumesc anticipat.",academic,tema
+204,"Salut, Ce documente sunt necesare pentru înscriere? Aștept un răspuns când aveți timp.",administrative,înscriere
+205,"Salut, Care este termenul pentru plata taxei? Este destul de urgent.",administrative,taxă
+206,Mă puteți ajuta? Când pot ridica documentele de la secretariat? Mulțumesc anticipat.,administrative,secretariat
+207,"Bună ziua, Nu îmi apare punctajul pentru ultima temă. Mulțumesc.",academic,notare
+208,Am o întrebare: Nu înțeleg cerința de la exercițiul trei din temă. Aștept un răspuns când aveți timp.,academic,tema
+209,Am o întrebare: Pot recupera laboratorul cu o altă grupă? Mulțumesc anticipat.,academic,laborator
+210,Vă rog să îmi spuneți: Care este pragul minim pentru promovare? Mulțumesc anticipat.,academic,notare
+211,Pana cand se poate face inscrierea? Astept un raspuns cand aveti timp.,administrative,înscriere
+212,Am o intrebare: Putem primi un exemplu pentru cerinta temei? Multumesc.,academic,tema
+213,"Salut, Nu găsesc fișierul folosit la laborator.",academic,laborator
+214,"Bună ziua, Am trimis proiectul, dar vreau să actualizez fișierul. Mulțumesc.",academic,proiect
+215,Va rog sa imi spuneti: Nu ma pot autentifica in contul de student. Multumesc.,administrative,cont
+216,Nu văd situația școlară în platformă.,administrative,cont
+217,"Salut, Tema se predă individual sau în echipă? Nu am găsit informația pe site.",academic,tema
+218,"Am trimis proiectul, dar vreau să actualizez fișierul. Mulțumesc anticipat.",academic,proiect
+219,Mă puteți ajuta? Când pot ridica documentele de la secretariat? Mulțumesc.,administrative,secretariat
+220,"Bună ziua, Unde găsim materialele de la curs? Nu am găsit informația pe site.",academic,curs
+221,Care este pragul minim pentru promovare? Este destul de urgent.,academic,notare
+222,"Bună ziua, În ce sală se ține examenul? Mulțumesc anticipat.",academic,examen
+223,Am o intrebare: Putem alege o tema diferita pentru proiect?,academic,proiect
+224,"Salut, Putem alege o temă diferită pentru proiect? Nu am găsit informația pe site.",academic,proiect
+225,Mă puteți ajuta? Pot recupera laboratorul cu o altă grupă? Mulțumesc.,academic,laborator
+226,"Salut, Până când se poate face înscrierea Nu am găsit informația pe site.",administrative,înscriere
+227,Mă puteți ajuta Cum se calculează nota finală,academic,notare
+228,Va rog sa imi spuneti: Contul meu apare blocat. Astept un raspuns cand aveti timp.,administrative,cont
+229,Am o întrebare: Cum îmi resetez parola contului instituțional Nu am găsit informația pe site.,administrative,cont
+230,Se poate restitui taxa de înscriere? Mulțumesc anticipat.,administrative,taxă
+231,"Salut, Care sunt cerințele minime pentru proiect? Este destul de urgent.",academic,proiect
+232,"Mă puteți ajuta? Am trimis proiectul, dar vreau să actualizez fișierul. Nu am găsit informația pe site.",academic,proiect
+233,Mă puteți ajuta? Pot aduce actele după începerea semestrului? Mulțumesc anticipat.,administrative,documente
+234,Mă puteți ajuta? Cum îmi resetez parola contului instituțional? Aștept un răspuns când aveți timp.,administrative,cont
+235,În ce cont bancar trebuie plătită taxa? Nu am găsit informația pe site.,administrative,taxă
+236,Am o întrebare: Unde pot încărca copia după buletin? Nu am găsit informația pe site.,administrative,documente
+237,Vă rog să îmi spuneți: Ce trebuie să pregătim pentru următorul laborator? Aștept un răspuns când aveți timp.,academic,laborator
+238,Pot plati taxa in doua transe? Este destul de urgent.,administrative,taxă
+239,"Salut, Nu găsesc fișierul folosit la laborator. Aștept un răspuns când aveți timp.",academic,laborator
+240,"Bună ziua, Când se afișează rezultatele examenului? Aștept un răspuns când aveți timp.",academic,examen
