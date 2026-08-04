@@ -22,6 +22,10 @@ Platforma principală de lucru este **Google Colab**.
 
 [Deschide notebook-ul în Google Colab](https://colab.research.google.com/github/ipworkshop/ipw2026-introduction-to-machine-learning/blob/main/notebooks/06_probabillities_bayes_naive_bayes.ipynb)
 
+### Sesiunea 5/6 - Support Vector Machines și Bag of Words
+
+[Deschide notebook-ul în Google Colab](https://colab.research.google.com/github/ipworkshop/ipw2026-introduction-to-machine-learning/blob/main/notebooks/07_svm_bag_of_words.ipynb)
+
 ## Cum lucrezi în Google Colab
 
 După deschiderea notebook-ului:
