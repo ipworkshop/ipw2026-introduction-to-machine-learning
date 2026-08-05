@@ -32,6 +32,10 @@ Platforma principală de lucru este **Google Colab**.
 
 [Deschide notebook-ul în Google Colab](https://colab.research.google.com/github/ipworkshop/ipw2026-introduction-to-machine-learning/blob/main/notebooks/08_workshop_emnist_multinomial_naive_bayes.ipynb)
 
+## Clasificarea supraviețuirii pe Titanic cu Naive Bayes
+
+[Deschide notebook-ul în Google Colab](https://colab.research.google.com/github/ipworkshop/ipw2026-introduction-to-machine-learning/blob/main/notebooks/09_workshop_titanic_naive_bayes.ipynb)
+
 ## Cum lucrezi în Google Colab
 
 După deschiderea notebook-ului:
