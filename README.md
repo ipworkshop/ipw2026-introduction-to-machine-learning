@@ -42,6 +42,10 @@ Platforma principală de lucru este **Google Colab**.
 
 [Deschide notebook-ul în Google Colab](https://colab.research.google.com/github/ipworkshop/ipw2026-introduction-to-machine-learning/blob/main/notebooks/Perceptronul_k_idee(1).ipynb)
 
+## Perceptron - Continuare
+
+[Deschide notebook-ul în Google Colab](https://colab.research.google.com/github/ipworkshop/ipw2026-introduction-to-machine-learning/blob/main/notebooks/Perceptronul_k_idee-Continuare.ipynb)
+
 ## Cum lucrezi în Google Colab
 
 După deschiderea notebook-ului:
